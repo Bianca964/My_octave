@@ -1,4 +1,3 @@
-// Farcasanu Bianca Ioana 313CAb 2023-2024
 
 #include <stdio.h>
 #include <math.h>
