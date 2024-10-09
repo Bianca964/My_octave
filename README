@@ -1,7 +1,5 @@
 
-    Pentru explicarea programului voi aborda fiecare functie in parte.
-
-    Am inceput programul cu functia 'alocare_memorie_matrice' ce intoarce un
+  Am inceput programul cu functia 'alocare_memorie_matrice' ce intoarce un
 rezultat de tip int**, functie ce o folosesc pentru a aloca memorie unei
 matrici de fiecare data cand am nevoie.
 
